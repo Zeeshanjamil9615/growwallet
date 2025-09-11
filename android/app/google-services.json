@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "427914865185",
+    "firebase_url": "https://grownetwork-b0208-default-rtdb.firebaseio.com",
+    "project_id": "grownetwork-b0208",
+    "storage_bucket": "grownetwork-b0208.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427914865185:android:3ab5481675de92503ed160",
+        "android_client_info": {
+          "package_name": "pro.gnetwork.grownetwork"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGM-SE3xBrBNfsaz0p0gJFVyalnc4Uw2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427914865185:android:5d573806310a1dbd3ed160",
+        "android_client_info": {
+          "package_name": "pro.gnetwork.growwallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGM-SE3xBrBNfsaz0p0gJFVyalnc4Uw2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
